@@ -1,0 +1,4 @@
+http://localhost:8502/
+
+
+streamlit run main.py
